@@ -18,4 +18,4 @@ Sometimes it gives error in running. If it do so please see what version of pyth
 
 This is open source project and you can change it according to your need.
 
-Please give feedback on metioned email-id: achilleslinux@gmail.com
+Please give feedback on metioned email-id: suvi.singh1311@gmail.com
